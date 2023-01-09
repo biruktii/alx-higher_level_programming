@@ -4,7 +4,7 @@
  *   pal - recursive helper function to determine if llst is palindrom
  *    @start: start position of list
  *     @end: end position of list
- *     
+ *
  *       Return: 1 if list is a palindrome, 0 otherwise
  */
 
@@ -26,7 +26,7 @@ return (0);
 /**
  *   is_palindrome - checks if a singly linked list is a palindrome
  *    @head: list to check
- *    
+ *
  *      Return: 1 if list is a palindrome, 0 otherwise
  */
 
